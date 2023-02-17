@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'sunny';
+    src: url('Sunny\ Spells.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    font-family: 'sunny';
+    font-weight: normal;
+}

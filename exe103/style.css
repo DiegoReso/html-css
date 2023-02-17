@@ -1,0 +1,14 @@
+body{
+    font: normal 16px Arial,Verdana,serif;
+    text-align: right;
+}
+
+h1{
+    text-align: left;
+}
+
+p{
+
+    text-align: justify;
+    text-indent: 20px;
+}
